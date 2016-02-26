@@ -29,9 +29,7 @@ Previously we saw the basics of routing URLs to views in Pyramid.
     same URL pattern. Rather than provide ways to help guess, Pyramid lets you
     be explicit in ordering. Pyramid also gives facilities to avoid the
     problem.  It's relatively easy to build a system that uses implicit route
-    ordering with Pyramid too.  See `The Groundhog series of screencasts 
-    <http://bfg.repoze.org/videos#groundhog1>`_ if you're interested in
-    doing so.
+    ordering with Pyramid too.
 
 Objectives
 ==========
